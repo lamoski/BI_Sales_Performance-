@@ -1,6 +1,6 @@
 
 
-📊 **Sales Performance Dashboard (SQL + Power BI)**
+# 📊 Sales Performance Dashboard (SQL + Power BI)
 
 ## 🚀 Overview
 This project demonstrates an end‑to‑end business intelligence workflow leveraging **SQL** for data cleaning and transformation and **Power BI** for analytics, modeling, and interactive visualizations. The outcome is a dynamic multi‑page dashboard that empowers stakeholders with insights into revenue, profit, growth trends, and sub‑category performance across various regions and years.
@@ -75,4 +75,17 @@ This project showcases:
 ---
 
 ## 📎 Screenshots
-(Add 2–4 images of the dashboards here to highlight the key visual components.)
+
+Here are screenshots of the dashboard to showcase key insights and design elements:
+
+### 1.Revenue Dashboard
+![Revenue Dashboard](https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/Revenue%20dashboard.png)
+
+### 2. Profit Dashboard
+![Profit Dashboard](https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/Profit%20dashboard.png)
+
+### 3. Customer Dashboard
+![Customer Dashboard](https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/customer%20dashboard.jpg)
+
+### 4. Sub-Category Dashboard
+![Sub-Category Dashboard](https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/Sub-Category%20dashboard.jpg)
