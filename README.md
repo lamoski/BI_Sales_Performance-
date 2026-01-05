@@ -95,4 +95,5 @@ Here are screenshots of the dashboard to showcase key insights and design elemen
 
 ## 🎥 Video Walkthrough
 
-You can [Download the Sales Dashboard Walkthrough](https://github.com/lamoski/BI_Sales_Performance-/raw/refs/heads/main/sales%20dashboard%20clip.mp4).
+You can [Download the Sales Dashboard Walkthrough](https://github.com/lamoski/BI_Sales_Performance-/raw/refs/heads/main/sales%20interactive%20video.mp4).
+
