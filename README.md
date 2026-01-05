@@ -1,4 +1,4 @@
-# BI Sales Performance Dashboard
+
 
 📊 **Sales Performance Dashboard (SQL + Power BI)**
 
