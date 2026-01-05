@@ -89,3 +89,11 @@ Here are screenshots of the dashboard to showcase key insights and design elemen
 
 ### 4. Sub-Category Dashboard
 ![Sub-Category Dashboard](https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/Sub-Category%20dashboard.jpg)
+
+
+## 🎥 Video Walkthrough
+
+<video width="720" height="480" controls>
+  <source src="https://raw.githubusercontent.com/lamoski/BI_Sales_Performance-/main/sales%20dashboard%20clip.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
